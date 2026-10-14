@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+scikit-learn
+joblib
+pyarrow
+openpyxl
+fastapi
+pydantic>=2
+httpx
+pytest
+rank_bm25
